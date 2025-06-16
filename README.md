@@ -17,5 +17,5 @@ I’m a React Native Developer with 5+ years of experience building and scaling 
 
 🤝 Connect with me
 
-🐦 Twitter • 💼 LinkedIn • 📦 NPM • 💻 GitHub
+[🐦 Twitter](https://x.com/AzamAli6995) • [💼 LinkedIn](https://www.linkedin.com/in/azam-ali-2a76781b7/) • [📦 Medium](https://medium.com/@azamali6995) • [💻 GitHub](https://github.com/azamali6995)
 
