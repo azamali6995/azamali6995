@@ -14,5 +14,6 @@ I’m a React Native Developer with 5+ years of experience building and scaling 
 💬 Talk to me about mobile performance, reusable architecture, component libraries, and shipping better React Native apps.
 
 🤝 Connect with me
+
 🐦 Twitter • 💼 LinkedIn • 📦 NPM • 💻 GitHub
 
