@@ -1,8 +1,10 @@
 👋 Hi there, I'm M Azam
+
 I’m a React Native Developer with 5+ years of experience building and scaling mobile applications. I specialize in creating dynamic, reusable components and delivering smooth cross-platform experiences. I work with startups and product teams to craft clean, maintainable codebases that ship fast and perform reliably.
 
 
 🔍 About Me
+
 📱 Founder of Ticklos.Design – Helping brands tell their story through professional videography and photography services, alongside app development.
 
 🛠️ Expert in React Native with deep knowledge of component design, offline-first architectures, Firebase, and WatermelonDB.
